@@ -1,0 +1,58 @@
+﻿GFX  03:46:03.968 ====================================================================================================
+GFX  03:46:03.968 StarCraft II (B89720)
+GFX  03:46:03.968 
+GFX  03:46:03.968 Executable              C:\Games\StarCraft II\Versions\Base89720\SC2_x64.exe
+GFX  03:46:03.968 <Parameters>            -sso=1 -launch -uid s2
+GFX  03:46:03.968 Parent Executable       \Device\HarddiskVolume2\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  03:46:03.968 Grandparent Executable  \Device\HarddiskVolume2\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  03:46:03.968 LocalTime               2023-02-06 03:46:03.968
+GFX  03:46:03.968 <ComputerUser>          Dmytro
+GFX  03:46:03.968 <ComputerName>          DESKTOP-PRK2SPM
+GFX  03:46:03.968 <Exe.Architecture>      x86_64
+GFX  03:46:03.968 <Version>               5.0.11.89720
+GFX  03:46:03.968 <DataBuild>             B89720
+GFX  03:46:03.968 <CodeBranch>            branches/SC2.5.0.a
+GFX  03:46:03.968 <CodeRevision>          641966
+GFX  03:46:03.968 <Locale.Assets>         ruRU
+GFX  03:46:03.968 <Locale.Data>           ruRU
+GFX  03:46:03.968 <Locale.Install>        ruRU
+GFX  03:46:03.968 <AccountCountry>        UKR
+GFX  03:46:03.968 <AgentVersion>          2.27.5.8093
+GFX  03:46:03.968 ====================================================================================================
+GFX  03:46:03.967 DXGI: Available
+GFX  03:46:04.557 Resource Cache Override Variable: 0MB
+GFX  03:46:04.557 Resource Cache: 2048MB Win64 (16302MB Physical, 11016MB Process Virtual)
+GFX  03:46:04.557 Resource Cache Sound:  204MB 
+GFX  03:46:04.557 Resource Cache Common: 1843MB 
+GFX  03:46:04.557 Resource Cache VRam:   0MB
+GFX  03:46:04.566 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  03:46:04.566 Adapter [0]: NVIDIA GeForce GTX 1660 (VendorID 0x10de DeviceID 0x2184)
+GFX  03:46:04.566 Attempting CreateDevice on adapter [0] (VendorID 0x10de DeviceID 0x2184)
+GFX  03:46:04.652 CreateDevice succeeded
+GFX  03:46:04.653 Using adapter [0]
+GFX  03:46:04.653 Floating point render targets supported.
+GFX  03:46:04.656 DXGI Adapter Name: NVIDIA GeForce GTX 1660
+GFX  03:46:04.656 VRAM Detected: Dedicated [5980MB] Shared [8151MB] (DXGI)
+GFX  03:46:04.656 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  03:46:04.656 Initialized D3D9 GraphicsDevice: NVIDIA GeForce GTX 1660 (Driver Version: 31.0.15.2824, VRAM: 5980MB, SVMEM: 8151MB).
+GFX  03:46:04.663 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  03:46:04.663 Hardware Depth Sampling: Available
+GFX  03:46:04.664 VRAM texture space: 2048MB
+GFX  03:46:05.719 PerfNotifiers initialized
+GFX  03:46:05.840 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  03:46:05.840 Lost D3D9 device
+GFX  03:46:05.855 
+GFX  03:46:05.855 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  03:48:33.033 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  03:48:43.652 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  03:48:43.653 DirectX call  failed with error code -2005530519
+GFX  03:48:43.653 Lost D3D9 device
+GFX  03:48:43.909 
+GFX  03:48:43.909 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  04:28:32.454 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  04:28:37.044 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  04:28:37.046 DirectX call  failed with error code -2005530519
+GFX  04:28:37.046 Lost D3D9 device
+GFX  04:28:37.680 
+GFX  04:28:37.680 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  04:31:42.775 Lost D3D9 device
