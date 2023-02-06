@@ -15,16 +15,25 @@
         </Key>
     </Section>
     <Section name="Hotspots">
+        <Key name="Hotspots|ArmoryTechConsole">
+            <StateValue int="1"/>
+        </Key>
         <Key name="Hotspots|MarSaraVikingPhoto">
             <StateValue int="1"/>
         </Key>
         <Key name="Hotspots|MarSaraTychus">
             <StateValue int="1"/>
         </Key>
+        <Key name="Hotspots|ArmoryFirebat">
+            <StateValue int="1"/>
+        </Key>
         <Key name="Hotspots|BridgeHorner">
             <StateValue int="1"/>
         </Key>
         <Key name="Hotspots|BridgeBattleReport">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="Hotspots|BridgeStarmap">
             <StateValue int="1"/>
         </Key>
     </Section>
@@ -96,6 +105,9 @@
         <Key name="StoryTips|Armory">
             <StateValue int="1"/>
         </Key>
+        <Key name="StoryTips|NewTechnology">
+            <StateValue int="1"/>
+        </Key>
         <Key name="StoryTips|MissionCase">
             <StateValue int="1"/>
         </Key>
@@ -127,6 +139,9 @@
             <StateValue int="1"/>
         </Key>
         <Key name="StoryTips|Raynor03_MissileTurret">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryTips|Cantina">
             <StateValue int="1"/>
         </Key>
         <Key name="StoryTips|Raynor03_Repair">
@@ -170,14 +185,20 @@
         <Key name="3">
             <Value string="CommandCenter"/>
         </Key>
-        <Key name="8">
-            <Value string="Firebat"/>
-        </Key>
         <Key name="0">
-            <Value int="9"/>
+            <Value int="11"/>
+        </Key>
+        <Key name="10">
+            <Value string="WarPig"/>
         </Key>
         <Key name="2">
             <Value string="SCV"/>
+        </Key>
+        <Key name="11">
+            <Value string="DevilDog"/>
+        </Key>
+        <Key name="7">
+            <Value string="Firebat"/>
         </Key>
         <Key name="5">
             <Value string="Bunker"/>
@@ -191,7 +212,7 @@
             <Value flag="1"/>
         </Key>
         <Key name="8">
-            <Value int="75000"/>
+            <Value int="25000"/>
         </Key>
         <Key name="2">
             <Value int="4"/>
@@ -228,6 +249,9 @@
             <StateValue int="1"/>
         </Key>
         <Key name="StoryState|CantinaVisited">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|CantinaHornerLinePlayed">
             <StateValue int="1"/>
         </Key>
         <Key name="StoryState|TychusOn">
@@ -376,7 +400,7 @@
             <Value int="4"/>
         </Key>
         <Key name="4">
-            <Value int="4"/>
+            <Value int="2"/>
         </Key>
         <Key name="9">
             <Value int="4"/>
@@ -406,7 +430,7 @@
             <Value int="4"/>
         </Key>
         <Key name="13">
-            <Value int="4"/>
+            <Value int="1"/>
         </Key>
         <Key name="12">
             <Value int="2"/>
