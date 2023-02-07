@@ -1,0 +1,52 @@
+﻿GFX  21:05:40.803 ====================================================================================================
+GFX  21:05:40.803 StarCraft II (B89720)
+GFX  21:05:40.803 
+GFX  21:05:40.803 Executable              D:\Games\StarCraft II\Versions\Base89720\SC2_x64.exe
+GFX  21:05:40.803 <Parameters>            -sso=1 -launch -uid s2
+GFX  21:05:40.803 Parent Executable       \Device\HarddiskVolume5\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  21:05:40.803 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  21:05:40.803 LocalTime               2023-02-06 21:05:40.803
+GFX  21:05:40.803 <ComputerUser>          Dmytro
+GFX  21:05:40.803 <ComputerName>          DESKTOP-05PL950
+GFX  21:05:40.803 <Exe.Architecture>      x86_64
+GFX  21:05:40.803 <Version>               5.0.11.89720
+GFX  21:05:40.803 <DataBuild>             B89720
+GFX  21:05:40.803 <CodeBranch>            branches/SC2.5.0.a
+GFX  21:05:40.803 <CodeRevision>          641966
+GFX  21:05:40.803 <Locale.Assets>         ruRU
+GFX  21:05:40.803 <Locale.Data>           ruRU
+GFX  21:05:40.803 <Locale.Install>        ruRU
+GFX  21:05:40.803 <AccountCountry>        UKR
+GFX  21:05:40.803 <AgentVersion>          2.27.5.8093
+GFX  21:05:40.803 ====================================================================================================
+GFX  21:05:40.802 DXGI: Available
+GFX  21:05:40.959 Resource Cache Override Variable: 0MB
+GFX  21:05:40.959 Resource Cache: 2032MB Win64 (8129MB Physical, 9546MB Process Virtual)
+GFX  21:05:40.959 Resource Cache Sound:  203MB 
+GFX  21:05:40.959 Resource Cache Common: 1828MB 
+GFX  21:05:40.959 Resource Cache VRam:   0MB
+GFX  21:05:40.978 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  21:05:40.978 Adapter [0]: AMD Radeon R7 200 Series (VendorID 0x1002 DeviceID 0x6610)
+GFX  21:05:40.978 Attempting CreateDevice on adapter [0] (VendorID 0x1002 DeviceID 0x6610)
+GFX  21:05:41.056 CreateDevice succeeded
+GFX  21:05:41.056 Using adapter [0]
+GFX  21:05:41.056 Floating point render targets supported.
+GFX  21:05:41.060 DXGI Adapter Name: AMD Radeon R7 200 Series
+GFX  21:05:41.060 VRAM Detected: Dedicated [1004MB] Shared [4064MB] (DXGI)
+GFX  21:05:41.060 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  21:05:41.060 Initialized D3D9 GraphicsDevice: AMD Radeon R7 200 Series (Driver Version: 27.20.21003.8013, VRAM: 1004MB, SVMEM: 4064MB).
+GFX  21:05:41.078 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  21:05:41.079 Hardware Depth Sampling: Available
+GFX  21:05:41.079 VRAM texture space: 753MB
+GFX  21:05:43.123 PerfNotifiers initialized
+GFX  21:05:43.299 Selected display mode 1920x1080x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  21:05:43.300 Lost D3D9 device
+GFX  21:05:43.334 
+GFX  21:05:43.334 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  21:13:58.315 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  21:20:14.066 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  21:20:14.067 DirectX call  failed with error code -2005530519
+GFX  21:20:14.067 Lost D3D9 device
+GFX  21:20:14.367 
+GFX  21:20:14.367 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  22:28:12.296 Lost D3D9 device

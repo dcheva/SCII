@@ -2,23 +2,32 @@
 <Bank version="1">
     <Section name="MissionCompletedAge">
         <Key name="4">
-            <Value int="1"/>
-        </Key>
-        <Key name="1">
-            <Value int="4"/>
-        </Key>
-        <Key name="3">
             <Value int="2"/>
         </Key>
-        <Key name="2">
+        <Key name="1">
+            <Value int="5"/>
+        </Key>
+        <Key name="3">
             <Value int="3"/>
+        </Key>
+        <Key name="2">
+            <Value int="4"/>
+        </Key>
+        <Key name="5">
+            <Value int="1"/>
         </Key>
     </Section>
     <Section name="Hotspots">
-        <Key name="Hotspots|ArmoryTechConsole">
+        <Key name="Hotspots|LabTubeProtoss">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="Hotspots|CantinaTV">
             <StateValue int="1"/>
         </Key>
         <Key name="Hotspots|MarSaraVikingPhoto">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="Hotspots|CantinaTrophyClaw">
             <StateValue int="1"/>
         </Key>
         <Key name="Hotspots|MarSaraTychus">
@@ -31,9 +40,6 @@
             <StateValue int="1"/>
         </Key>
         <Key name="Hotspots|BridgeBattleReport">
-            <StateValue int="1"/>
-        </Key>
-        <Key name="Hotspots|BridgeStarmap">
             <StateValue int="1"/>
         </Key>
     </Section>
@@ -54,7 +60,7 @@
             <Value string="000000000000000"/>
         </Key>
         <Key name="3">
-            <Value int="1"/>
+            <Value int="2"/>
         </Key>
         <Key name="0">
             <Value int="2"/>
@@ -64,9 +70,15 @@
         <Key name="4">
             <Value int="2"/>
         </Key>
+        <Key name="5">
+            <Value int="1"/>
+        </Key>
     </Section>
     <Section name="Tips">
         <Key name="StoryTips|Raynor02_Medics">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryTips|MissionNewStructureFactory">
             <StateValue int="1"/>
         </Key>
         <Key name="StoryTips|Mercenaries">
@@ -88,6 +100,12 @@
             <StateValue int="1"/>
         </Key>
         <Key name="StoryTips|Raynor03_Reactor">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryTips|Lab">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryTips|MissionMercenaries">
             <StateValue int="1"/>
         </Key>
         <Key name="StoryTips|Raynor03_Bunker">
@@ -138,34 +156,48 @@
         <Key name="StoryTips|Hanson01_EscortStrat">
             <StateValue int="1"/>
         </Key>
-        <Key name="StoryTips|Raynor03_MissileTurret">
-            <StateValue int="1"/>
-        </Key>
         <Key name="StoryTips|Cantina">
             <StateValue int="1"/>
         </Key>
+        <Key name="StoryTips|Raynor03_MissileTurret">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson02_Hellion">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson02_DayNight">
+            <StateValue int="1"/>
+        </Key>
         <Key name="StoryTips|Raynor03_Repair">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryTips|Hanson02_SensorTower">
             <StateValue int="1"/>
         </Key>
         <Key name="StoryTips|BattleReport">
             <StateValue int="1"/>
         </Key>
     </Section>
+    <Section name="LabResearchOldLevel">
+        <Key name="2">
+            <Value int="6"/>
+        </Key>
+    </Section>
     <Section name="ArcadeGame"/>
     <Section name="NewsPlayed">
+        <Key name="StoryNews|THanson02">
+            <StateValue int="1"/>
+        </Key>
         <Key name="StoryNews|TRaynor01">
             <StateValue int="1"/>
         </Key>
     </Section>
     <Section name="MissionAvailableAge">
         <Key name="8">
-            <Value int="1"/>
-        </Key>
-        <Key name="17">
             <Value int="2"/>
         </Key>
-        <Key name="5">
-            <Value int="1"/>
+        <Key name="17">
+            <Value int="3"/>
         </Key>
     </Section>
     <Section name="ObjectiveProgress"/>
@@ -174,7 +206,7 @@
             <Value string="Medic"/>
         </Key>
         <Key name="9">
-            <Value string="NuclearReactor"/>
+            <Value string="DevilDog"/>
         </Key>
         <Key name="6">
             <Value string="MissileTurret"/>
@@ -185,20 +217,26 @@
         <Key name="3">
             <Value string="CommandCenter"/>
         </Key>
-        <Key name="0">
-            <Value int="11"/>
-        </Key>
-        <Key name="10">
+        <Key name="8">
             <Value string="WarPig"/>
+        </Key>
+        <Key name="0">
+            <Value int="13"/>
         </Key>
         <Key name="2">
             <Value string="SCV"/>
         </Key>
         <Key name="11">
-            <Value string="DevilDog"/>
+            <Value string="Hellion"/>
         </Key>
         <Key name="7">
             <Value string="Firebat"/>
+        </Key>
+        <Key name="13">
+            <Value string="NuclearReactor"/>
+        </Key>
+        <Key name="12">
+            <Value string="SensorTower"/>
         </Key>
         <Key name="5">
             <Value string="Bunker"/>
@@ -206,25 +244,28 @@
     </Section>
     <Section name="StoryStage">
         <Key name="4">
-            <Value int="4"/>
+            <Value int="5"/>
         </Key>
         <Key name="3">
             <Value flag="1"/>
         </Key>
         <Key name="8">
-            <Value int="25000"/>
+            <Value int="135000"/>
         </Key>
         <Key name="2">
-            <Value int="4"/>
+            <Value int="5"/>
         </Key>
         <Key name="7">
-            <Value int="4"/>
+            <Value int="5"/>
         </Key>
         <Key name="5">
             <Value flag="1"/>
         </Key>
     </Section>
     <Section name="MissionCompletion">
+        <Key name="5-Normal">
+            <Value flag="1"/>
+        </Key>
         <Key name="2-Normal">
             <Value flag="1"/>
         </Key>
@@ -251,10 +292,16 @@
         <Key name="StoryState|CantinaVisited">
             <StateValue int="1"/>
         </Key>
+        <Key name="StoryState|FirstMissionMercBought">
+            <StateValue int="1"/>
+        </Key>
         <Key name="StoryState|CantinaHornerLinePlayed">
             <StateValue int="1"/>
         </Key>
         <Key name="StoryState|TychusOn">
+            <StateValue int="1"/>
+        </Key>
+        <Key name="StoryState|TipFactoryPlayed">
             <StateValue int="1"/>
         </Key>
         <Key name="StoryState|ArmoryVisited">
@@ -269,6 +316,9 @@
         <Key name="StoryState|TipZergCreepPlayed">
             <StateValue int="1"/>
         </Key>
+        <Key name="StoryState|TipNewZergResearchPlayed">
+            <StateValue int="1"/>
+        </Key>
         <Key name="StoryState|LabArtifactCount">
             <StateValue int="1"/>
         </Key>
@@ -278,8 +328,14 @@
         <Key name="StoryState|CantinaOpened">
             <StateValue int="1"/>
         </Key>
+        <Key name="StoryState|LabOpened">
+            <StateValue int="1"/>
+        </Key>
     </Section>
     <Section name="MissionBestTime">
+        <Key name="5-Normal">
+            <Value int="3350"/>
+        </Key>
         <Key name="2-Normal">
             <Value int="1225"/>
         </Key>
@@ -405,6 +461,9 @@
         <Key name="9">
             <Value int="4"/>
         </Key>
+        <Key name="19">
+            <Value int="4"/>
+        </Key>
         <Key name="6">
             <Value int="4"/>
         </Key>
@@ -413,6 +472,9 @@
         </Key>
         <Key name="3">
             <Value int="2"/>
+        </Key>
+        <Key name="20">
+            <Value int="4"/>
         </Key>
         <Key name="8">
             <Value int="4"/>
