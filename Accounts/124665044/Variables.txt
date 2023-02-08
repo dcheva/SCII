@@ -1,2 +1,4 @@
 gluetheme=3
+mastervolume=0.748902
+musicvolume=0.000000
 OptionRevisionAccount=0

@@ -18,6 +18,9 @@
         </Key>
     </Section>
     <Section name="Hotspots">
+        <Key name="Hotspots|ArmoryTechConsole">
+            <StateValue int="1"/>
+        </Key>
         <Key name="Hotspots|LabTubeProtoss">
             <StateValue int="1"/>
         </Key>
@@ -223,20 +226,20 @@
         <Key name="0">
             <Value int="13"/>
         </Key>
+        <Key name="10">
+            <Value string="Hellion"/>
+        </Key>
         <Key name="2">
             <Value string="SCV"/>
         </Key>
         <Key name="11">
-            <Value string="Hellion"/>
+            <Value string="SensorTower"/>
         </Key>
         <Key name="7">
             <Value string="Firebat"/>
         </Key>
         <Key name="13">
             <Value string="NuclearReactor"/>
-        </Key>
-        <Key name="12">
-            <Value string="SensorTower"/>
         </Key>
         <Key name="5">
             <Value string="Bunker"/>
@@ -248,9 +251,6 @@
         </Key>
         <Key name="3">
             <Value flag="1"/>
-        </Key>
-        <Key name="8">
-            <Value int="135000"/>
         </Key>
         <Key name="2">
             <Value int="5"/>
@@ -313,10 +313,13 @@
         <Key name="StoryState|BattleReportCurrentSel">
             <StateValue int="7"/>
         </Key>
+        <Key name="StoryState|TipNewZergResearchPlayed">
+            <StateValue int="1"/>
+        </Key>
         <Key name="StoryState|TipZergCreepPlayed">
             <StateValue int="1"/>
         </Key>
-        <Key name="StoryState|TipNewZergResearchPlayed">
+        <Key name="StoryState|Hanson02DebriefingDone">
             <StateValue int="1"/>
         </Key>
         <Key name="StoryState|LabArtifactCount">
@@ -453,13 +456,13 @@
     </Section>
     <Section name="TechStatus">
         <Key name="14">
-            <Value int="4"/>
+            <Value int="2"/>
         </Key>
         <Key name="4">
             <Value int="2"/>
         </Key>
         <Key name="9">
-            <Value int="4"/>
+            <Value int="2"/>
         </Key>
         <Key name="19">
             <Value int="4"/>
@@ -486,7 +489,7 @@
             <Value int="1"/>
         </Key>
         <Key name="11">
-            <Value int="4"/>
+            <Value int="1"/>
         </Key>
         <Key name="7">
             <Value int="4"/>
